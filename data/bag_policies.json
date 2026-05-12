@@ -5321,6 +5321,1195 @@
     "guideUrl": "https://concerto-bag-policies.netlify.app/ubcdougmitchellthunderbirdsportscentre"
   },
   "ubs_arena": {
-    "summary": "Bags no larger than 12″ x 12″ x 6″ are allowed and will be screened. Backpacks of all sizes are prohibited, but medical and baby bags are permitted
-
-```
+    "summary": "Bags no larger than 12″ x 12″ x 6″ are allowed and will be screened. Backpacks of all sizes are prohibited, but medical and baby bags are permitted with screening.",
+    "fullLink": "https://ubsarena.com/bag-policy-prohibited-items/",
+    "updated": "",
+    "allowed": [
+      "Bags no larger than 12″ x 12″ x 6″",
+      "Medical bags",
+      "Baby bags"
+    ],
+    "notAllowed": [
+      "Backpacks of all sizes",
+      "Weapons of any kind",
+      "Professional camera equipment",
+      "Laptops and personal computers",
+      "Audio/video recording devices",
+      "Laser pointers or flashlights",
+      "Illegal drugs/substances",
+      "Outside alcohol",
+      "Fireworks and projectiles",
+      "Large signs, flags, and banners",
+      "Balloons and inflatables",
+      "Unapproved pamphlets",
+      "Firestarters and lighters",
+      "Cans, bottles, and insulated containers",
+      "Pets, other than service animals",
+      "Selfie sticks and poles",
+      "Coolers of any size",
+      "Offensive signs or garments",
+      "Noisemakers",
+      "Optical illusions",
+      "Drones",
+      "Patrons without shoes, shirts, or pants/shorts",
+      "Flowers, unless allowed by tour production",
+      "Skateboards and rollerblades"
+    ],
+    "note": "Exceptions will be made for those with medical requirements and/or special needs.",
+    "venueName": "UBS Arena",
+    "city": "Elmont",
+    "state": "NY",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/ubsarena"
+  },
+  "uc_berkeley_greek_theatre": {
+    "summary": "Small personal bags and backpacks are allowed at the UC Berkeley Greek Theatre. The policy encourages bringing reusable water bottles.",
+    "fullLink": "https://thegreekberkeley.com/qwhat-can-i-bring-to-the-show/",
+    "updated": "",
+    "allowed": [
+      "small personal bags",
+      "backpacks"
+    ],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "UC Berkeley Greek Theatre",
+    "city": "Berkeley",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/ucberkeleygreektheatre"
+  },
+  "us_bank_stadium": {
+    "summary": "All guests entering U.S. Bank Stadium will have their bags searched and scanned. Permissible bags will be allowed after inspection.",
+    "fullLink": "https://www.usbankstadium.com/plan-your-visit/safety",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "U.S. Bank Stadium",
+    "city": "Minneapolis",
+    "state": "MN",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/usbankstadium"
+  },
+  "unipol_arena": {
+    "summary": "Backpacks larger than an A4 sheet are prohibited and must be checked at the cloakroom. Small bags like fanny packs, purses, and clutches are allowed.",
+    "fullLink": "https://www.unipolarena.it/en/rules/",
+    "updated": "",
+    "allowed": [
+      "fanny packs",
+      "purses",
+      "clutches",
+      "small bags equivalent to an A4 sheet"
+    ],
+    "notAllowed": [
+      "suitcases",
+      "trolleys",
+      "backpacks larger than an A4 sheet",
+      "spray cans",
+      "stadium horns",
+      "weapons",
+      "explosives",
+      "fireworks",
+      "smoke bombs",
+      "signal flares",
+      "stones",
+      "knives",
+      "sharp or pointed objects",
+      "chains",
+      "alcoholic beverages",
+      "illegal drugs",
+      "poisons",
+      "harmful substances",
+      "flammable materials",
+      "beverages in cans",
+      "glass bottles",
+      "metal flasks",
+      "plastic bottles larger than 0.5 liters",
+      "food",
+      "animals",
+      "motorcycle/scooter helmets",
+      "selfie sticks",
+      "tripods",
+      "binoculars",
+      "umbrellas",
+      "poles",
+      "musical instruments",
+      "pens",
+      "laser pointers",
+      "drones",
+      "remote-controlled aircraft",
+      "audio/video recording equipment",
+      "power banks",
+      "cameras",
+      "video cameras",
+      "GoPros",
+      "iPads",
+      "tablets",
+      "computers",
+      "bicycles",
+      "skateboards",
+      "roller skates",
+      "hoverboards",
+      "any other objects that could be used as weapons"
+    ],
+    "note": "Exceptions for food may apply; please contact the venue.",
+    "venueName": "Unipol Arena",
+    "city": "Casalecchio di Reno",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/unipolarena"
+  },
+  "unipol_forum": {
+    "summary": "",
+    "fullLink": "https://www.unipolforum.it/en/whoweare/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Unipol Forum",
+    "city": "Assago",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/unipolforum"
+  },
+  "united_center": {
+    "summary": "",
+    "fullLink": "https://www.unitedcenter.com/assets/1/7/BULLS_HAWKS_2021.pdf",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "United Center",
+    "city": "Chicago",
+    "state": "IL",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/unitedcenter"
+  },
+  "unity_arena": {
+    "summary": "Small clear bags up to 12\"x6\"x12\" and clutches are allowed, while large bags are prohibited.",
+    "fullLink": "https://www.buytickets.com/venues/unity-arena",
+    "updated": "",
+    "allowed": [
+      "Small clear bags (12\"x6\"x12\")",
+      "Clutches"
+    ],
+    "notAllowed": [
+      "Large bags"
+    ],
+    "note": "",
+    "venueName": "Unity Arena",
+    "city": "Fornebu",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/unityarena"
+  },
+  "usher_hall": {
+    "summary": "The Usher Hall has a security policy in place that includes restrictions on the size and type of bags allowed inside the venue. Visitors are encouraged to bring only small bags to ensure a smooth security process.",
+    "fullLink": "https://www.usherhall.co.uk/your-visit/security",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "Exceptions may be made for medical bags or diaper bags.",
+    "venueName": "Usher Hall",
+    "city": "Edinburgh",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/usherhall"
+  },
+  "utah_first_credit_union_amphitheatre": {
+    "summary": "Only small clutches, wristlets, or fanny packs no bigger than 6”x 9” and clear plastic bags no bigger than 12\"x12\"x6” are allowed. All bags are subject to search upon entry.",
+    "fullLink": "https://www.utahfirstamp.com/visit",
+    "updated": "",
+    "allowed": [
+      "small clutches",
+      "wristlets",
+      "fanny packs no bigger than 6”x 9”",
+      "clear plastic bags no bigger than 12\"x12\"x6”"
+    ],
+    "notAllowed": [
+      "Weapons of any kind",
+      "Alcohol, cans and bottles",
+      "Illegal drugs/ substances",
+      "Glass and metal containers",
+      "Hard sided/ large coolers",
+      "Frozen water bottles"
+    ],
+    "note": "",
+    "venueName": "Utah First Credit Union Amphitheatre",
+    "city": "West Valley City",
+    "state": "UT",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/utahfirstcreditunionamphitheatre"
+  },
+  "utilita_arena_birmingham": {
+    "summary": "",
+    "fullLink": "https://www.utilitaarenabham.co.uk/protect/bag-policy/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Utilita Arena Birmingham",
+    "city": "Birmingham",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/utilitaarenabirmingham"
+  },
+  "utilita_arena_newcastle": {
+    "summary": "Only essential items are encouraged, with no large bags or backpacks allowed. All bags must be smaller than 40cm x 35cm x 19cm.",
+    "fullLink": "https://www.utilitaarena.co.uk/plan-your-visit/safety-security-1/bag-policy",
+    "updated": "",
+    "allowed": [
+      "Bags smaller than 40cm x 35cm x 19cm"
+    ],
+    "notAllowed": [
+      "Backpacks including holdalls, luggage, computer bags and cushions",
+      "Glass, cans, aluminium bottles or thermoses",
+      "Flammable liquids",
+      "Laser pens/pointers",
+      "Video cameras, professional cameras and recording devices",
+      "Laptop computers, iPads and Go Pro’s",
+      "Large/golf umbrellas",
+      "Knives, firearms or weapons",
+      "Illegal drugs or substances",
+      "Alcoholic beverages",
+      "Signs, banners or flags",
+      "Animals (except service animals)",
+      "Air horns, whistles, cowbells",
+      "Projectiles",
+      "Aerosol cans",
+      "Fireworks, confetti or glitter bombs",
+      "Glow sticks",
+      "Balloons",
+      "Wheeled footwear, skateboards",
+      "Food",
+      "Helmets and full face masks",
+      "Large belt buckles, studs, chains and spiked collars",
+      "Glass bottles of perfume",
+      "Any refreshments or refreshment containers",
+      "Cameras & recording equipment"
+    ],
+    "note": "Exceptions for medical requirements and/or special needs, communicated ahead of visit.",
+    "venueName": "Utilita Arena Newcastle",
+    "city": "Newcastle Upon Tyne",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/utilitaarenanewcastle"
+  },
+  "utilita_arena_sheffield": {
+    "summary": "Bags larger than 30cm x 40cm x 20cm are prohibited. Rucksacks and backpacks are not allowed, and there is no storage facility for prohibited items.",
+    "fullLink": "https://www.utilitaarenasheffield.co.uk/venue-info/faq/",
+    "updated": "",
+    "allowed": [
+      "Bags up to 30cm wide x 20cm long x 20cm deep"
+    ],
+    "notAllowed": [
+      "Rucksacks/Backpacks",
+      "Bags larger than 30cm x 40cm x 20cm"
+    ],
+    "note": "",
+    "venueName": "Utilita Arena Sheffield",
+    "city": "Sheffield",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/utilitaarenasheffield"
+  },
+  "uw_panther_arena": {
+    "summary": "Guests attending public ticketed events at UW – Panther Arena are allowed to bring a clear stadium bag up to 12″ x 6″ x 12″, a gallon-sized clear zip bag, a wristlet up to 4″x6″x1″, or a diaper or medical bag. Bags will be searched upon entry.",
+    "fullLink": "https://uwmilwaukeepantherarena.com/events-tickets/bag-policy/",
+    "updated": "",
+    "allowed": [
+      "12″ x 6″ x 12″ clear stadium bag",
+      "gallon-sized clear zip bag",
+      "4″x6″x1″ wristlet",
+      "diaper bag",
+      "medical bag"
+    ],
+    "notAllowed": [],
+    "note": "Diaper bags and medical bags are exceptions and will be searched.",
+    "venueName": "UW – Panther Arena",
+    "city": "Milwaukee",
+    "state": "WI",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/uwpantherarena"
+  },
+  "van_andel_arena": {
+    "summary": "Van Andel Arena enforces a No Bag policy, allowing only small clutches and bags for medical or parenting needs. This policy aims to reduce contact between guests and security staff.",
+    "fullLink": "https://www.vanandelarena.com/p/visit/van-andel-arena-faqs",
+    "updated": "",
+    "allowed": [
+      "Small clutches no larger than 4.5\" x 6.5\" x 2\"",
+      "Bags required for medical or parenting needs"
+    ],
+    "notAllowed": [
+      "Bags",
+      "Backpacks",
+      "Purses"
+    ],
+    "note": "Guests with parenting/medical bags must enter through the ADA/Box office entrance for additional security screening.",
+    "venueName": "Van Andel Arena",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/vanandelarena"
+  },
+  "veikkaus_arena": {
+    "summary": "Visitors are encouraged to arrive without large bags. Only small backpacks, handbags, or fabric tote bags with few compartments are allowed.",
+    "fullLink": "https://www.veikkausarena.fi/en/info",
+    "updated": "",
+    "allowed": [
+      "Small backpack (max. 40cm x 40cm x 20cm)",
+      "handbag",
+      "fabric tote bag with few compartments"
+    ],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Veikkaus Arena",
+    "city": "Helsinki",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/veikkausarena"
+  },
+  "veterans_memorial_coliseum": {
+    "summary": "Bags 10x6x2 inches and smaller can go through expedited entry, while bags up to 14x14x6 inches must be screened by x-ray machines. Bag check is available at the P3 Lobby of the Garden Garage.",
+    "fullLink": "https://www.rosequarter.com/plan-your-visit/venue-guide",
+    "updated": "",
+    "allowed": [
+      "Bags 10x6x2 inches and smaller",
+      "Bags up to 14x14x6 inches"
+    ],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Veterans Memorial Coliseum",
+    "city": "Portland",
+    "state": "OR",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/veteransmemorialcoliseum"
+  },
+  "veterans_united_home_loans_amphitheater": {
+    "summary": "",
+    "fullLink": "https://www.veteransunitedhomeloansamphitheater.com/visit",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Veterans United Home Loans Amphitheater",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/veteransunitedhomeloansamphitheater"
+  },
+  "videotron_centre": {
+    "summary": "All bags are subject to inspection. Only personal handbags and bags containing baby items are permitted.",
+    "fullLink": "https://www.lecentrevideotron.ca/en/about/rules-regulation",
+    "updated": "",
+    "allowed": [
+      "personal handbags",
+      "bags containing baby items"
+    ],
+    "notAllowed": [
+      "bags larger than 14’’ x 12’’ x 6’’"
+    ],
+    "note": "Exceptions may be granted for guests with food allergies.",
+    "venueName": "Videotron Centre",
+    "city": "Quebec City",
+    "state": "QC",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/videotroncentre"
+  },
+  "viejas_arena": {
+    "summary": "Viejas Arena is a clear bag venue to expedite guest entry and enhance security. Bags must be clear plastic or vinyl and not exceed 12\" x 6\" x 12\".",
+    "fullLink": "https://as.sdsu.edu/viejas_arena/bagpolicy",
+    "updated": "November 1st, 2022",
+    "allowed": [
+      "Clear plastic or vinyl bags up to 12\" x 6\" x 12\"",
+      "One-gallon clear plastic freezer bags",
+      "Small purses, bags, clutches, or wallets no larger than 4.5\" x 6.5\""
+    ],
+    "notAllowed": [
+      "Backpacks"
+    ],
+    "note": "",
+    "venueName": "Viejas Arena",
+    "city": "San Diego",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/viejasarena"
+  },
+  "villa_erba": {
+    "summary": "",
+    "fullLink": "https://www.villaerba.it/en/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Villa Erba",
+    "city": "Cernobbio",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/villaerba"
+  },
+  "wamu_theater": {
+    "summary": "WAMU Theater enforces a clear bag policy to enhance public safety. Only clear bags, small clutches, and one-gallon clear plastic bags are allowed.",
+    "fullLink": "https://www.wamutheater.com/plan-your-visit-visitor-guide/clear-bag-policy",
+    "updated": "",
+    "allowed": [
+      "Clear bags that do not exceed 12″ x 6″ x 12″",
+      "One-gallon clear plastic freezer bags",
+      "Clear backpacks within dimension guidelines with no more than 2 pockets",
+      "Small bags not exceeding 4.5″ x 6.5″"
+    ],
+    "notAllowed": [
+      "Oversized bags that cannot fit into clear bags"
+    ],
+    "note": "Exception for medically necessary items after proper inspection.",
+    "venueName": "WAMU Theater",
+    "city": "Seattle",
+    "state": "WA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/wamutheater"
+  },
+  "walmart_amp": {
+    "summary": "The Walmart AMP has specific guidelines regarding the types and sizes of bags allowed into the venue. Guests are encouraged to review these policies before attending an event.",
+    "fullLink": "https://walmartamp.com/policies",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Walmart AMP",
+    "city": "Rogers",
+    "state": "AR",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/walmartamp"
+  },
+  "wells_fargo_arena": {
+    "summary": "All bags, purses, or personal items are subject to search and must be within the size limit of 13” x 15” x 6”. Exceptions are made for diaper and medical bags, which may exceed the size limit but will be searched.",
+    "fullLink": "https://www.arenaiowa.net/rules/",
+    "updated": "",
+    "allowed": [
+      "Bags within 13” x 15” x 6”"
+    ],
+    "notAllowed": [
+      "Over-sized bags/backpacks/duffel bags"
+    ],
+    "note": "Diaper and medical bags may exceed the size limit but will be searched.",
+    "venueName": "Wells Fargo Arena",
+    "city": "Des Moines",
+    "state": "IA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/wellsfargoarena"
+  },
+  "wells_fargo_center": {
+    "summary": "Bags larger than 4.5” x 6.5” and smaller than 14”x14”x6” are allowed with X-Ray screening. Small clutches and purses under 4.5”x6.5” are permitted without X-Ray but are subject to inspection.",
+    "fullLink": "https://www.xfinitymobilearena.com/plan-your-visit/security-policy",
+    "updated": "",
+    "allowed": [
+      "Bags larger than 4.5” x 6.5” and smaller than 14”x14”x6”",
+      "Hand clutches",
+      "Wristlets",
+      "Small purses under 4.5”x6.5”"
+    ],
+    "notAllowed": [
+      "Backpacks",
+      "Suitcases",
+      "Large multicompartment bags",
+      "Vape pens",
+      "Cigarettes/cigars",
+      "Lighters",
+      "Matches",
+      "Weapons",
+      "Guns",
+      "Knives",
+      "Chains",
+      "Tasers",
+      "Firearms",
+      "Self defense sprays",
+      "Mace",
+      "Pepper spray",
+      "Explosives",
+      "Fireworks",
+      "Ammunition",
+      "Fuels",
+      "Torches",
+      "Lighter fluid",
+      "Hazardous items",
+      "Chemicals",
+      "Paint thinners",
+      "Brass knuckles",
+      "Black jacks",
+      "Martial"
+    ],
+    "note": "Exceptions for medical and parental bags smaller than 14” x 14” x 6” are allowed with X-Ray screening.",
+    "venueName": "Wells Fargo Center",
+    "city": "Philadelphia",
+    "state": "PA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/wellsfargocenter"
+  },
+  "wembley_stadium": {
+    "summary": "Wembley Stadium allows each person to bring one small bag no larger than A4 size to enhance safety and speed up security checks. Bags will be inspected, and exceptions are made for medical equipment with prior permission.",
+    "fullLink": "https://www.wembleystadium.com/plan-your-visit/stadium-guide/restricted-bag-policy",
+    "updated": "",
+    "allowed": [
+      "One small bag no larger than A4 size"
+    ],
+    "notAllowed": [],
+    "note": "Exceptions for medical equipment are allowed with prior permission and a Medical Exemption Certificate.",
+    "venueName": "Wembley Stadium",
+    "city": "London",
+    "state": "",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/wembleystadium"
+  },
+  "winstar_lucas_oil_live": {
+    "summary": "Lucas Oil Live enforces a bag policy to enhance public safety. Approved bags include clear totes, plastic storage bags, and small clutch purses, while backpacks and other large bags are prohibited.",
+    "fullLink": "https://www.winstar.com/event/little-big-town/",
+    "updated": "",
+    "allowed": [
+      "Clear Totes (Plastic, Vinyl, or PVC that do not exceed 12” x 6” x 12”)",
+      "Plastic Storage Bags (Clear, One (1) Gallon, Re-Sealable)",
+      "Small Clutch Purses (No larger than 12” x 6”)"
+    ],
+    "notAllowed": [
+      "Backpacks",
+      "Binocular Cases",
+      "Briefcases",
+      "Camera Bags",
+      "Cinch Bags",
+      "Computer Bags",
+      "Coolers",
+      "Luggage of any kind"
+    ],
+    "note": "An exception will be made for medically necessary items after proper inspection at a gate designated for this purpose.",
+    "venueName": "WinStar Lucas Oil Live",
+    "city": "Thackerville",
+    "state": "OK",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/winstarlucasoillive"
+  },
+  "wrigley_field": {
+    "summary": "Wrigley Field enforces a clear bag policy to ensure fan safety and expedite entry. Only specific types and sizes of bags are permitted.",
+    "fullLink": "https://www.mlb.com/dbacks/ballpark/information/bag-policy",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Wrigley Field",
+    "city": "Chicago",
+    "state": "IL",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/wrigleyfield"
+  },
+  "xl_center": {
+    "summary": "Large bags, backpacks, and similar items are strictly prohibited at the XL Center. Handbags of normal size may be allowed after a search.",
+    "fullLink": "https://www.peoplesbankarena.com/plan-your-visit/faqs",
+    "updated": "",
+    "allowed": [
+      "handbags of normal size"
+    ],
+    "notAllowed": [
+      "large bags",
+      "backpacks",
+      "luggage",
+      "laptops",
+      "tablets/iPads",
+      "coolers",
+      "parcels",
+      "briefcases"
+    ],
+    "note": "",
+    "venueName": "XL Center",
+    "city": "Hartford",
+    "state": "CT",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/xlcenter"
+  },
+  "xcel_energy_center": {
+    "summary": "For safety and speed of entry, bags are discouraged at events. Purses up to 12” x 12” x 6” are allowed at designated X-ray entry points. Wristlets, clutches, or wallets 4” x 6” x 1.5” or smaller are permitted at all entrances.",
+    "fullLink": "https://www.grandcasinoarena.com/plan-your-visit/guest-services-guide",
+    "updated": "",
+    "allowed": [
+      "Purses no larger than 12” x 12” x 6”",
+      "Wristlet, clutch or wallets 4” x 6” x 1.5” or smaller"
+    ],
+    "notAllowed": [
+      "Backpacks",
+      "Coolers",
+      "Large totes"
+    ],
+    "note": "Medical and parenting bags are permitted and subject to X-ray screening.",
+    "venueName": "Xcel Energy Center",
+    "city": "St. Paul",
+    "state": "MN",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/xcelenergycenter"
+  },
+  "yankee_stadium": {
+    "summary": "Yankee Stadium has implemented a clear bag policy to enhance fan safety and expedite entry. Only specific types and sizes of bags are permitted.",
+    "fullLink": "https://www.mlb.com/dbacks/ballpark/information/bag-policy",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Yankee Stadium",
+    "city": "Bronx",
+    "state": "NY",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/yankeestadium"
+  },
+  "coachella_valley_music_and_arts_festival": {
+    "summary": "",
+    "fullLink": "https://www.outdoorsy.com/guide/coachella-valley-music-and-arts-festival",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Coachella Valley Music and Arts Festival",
+    "city": "Indio",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/coachellavalleymusicandartsfestival"
+  },
+  "stagecoach_festival": {
+    "summary": "",
+    "fullLink": "https://www.stagecoachfestival.com/faqs/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Stagecoach Festival",
+    "city": "Indio",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/stagecoachfestival"
+  },
+  "ultra_music_festival": {
+    "summary": "Ultra Music Festival enforces a clear bag policy requiring bags to be made of clear plastic, vinyl, or PVC and not exceed 13\" x 17\". Small clutch bags are allowed, and exceptions are made for medically required items.",
+    "fullLink": "https://clear-handbags.com/blogs/news/ultra-bag-policy",
+    "updated": "",
+    "allowed": [
+      "Clear plastic bags up to 13\" x 17\"",
+      "Small clutch bags"
+    ],
+    "notAllowed": [
+      "Backpacks",
+      "Bags with multiple pockets"
+    ],
+    "note": "Exceptions will be made on a case-by-case basis for medically required items.",
+    "venueName": "Ultra Music Festival",
+    "city": "Miami",
+    "state": "FL",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/ultramusicfestival"
+  },
+  "edc_las_vegas": {
+    "summary": "EDC Las Vegas allows clear bags up to 12”x6”x12” and non-clear small clutch bags not exceeding 6”x9”. Hydration packs with specific compartments are also permitted.",
+    "fullLink": "https://lasvegas.electricdaisycarnival.com/guide/hours-and-info/",
+    "updated": "",
+    "allowed": [
+      "CLEAR bags not exceeding 12”x6”x12”",
+      "NON-CLEAR small clutch bags not exceeding 6”x9”",
+      "NON-CLEAR hydration packs with no more than two main compartments and one smaller compartment"
+    ],
+    "notAllowed": [],
+    "note": "Physician-prescribed medication bags are allowed with prescription and consultation with a safety officer.",
+    "venueName": "EDC Las Vegas",
+    "city": "Las Vegas",
+    "state": "NV",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/edclasvegas"
+  },
+  "electric_forest": {
+    "summary": "",
+    "fullLink": "https://www.electricforest.com/pass-types/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Electric Forest",
+    "city": "Rothbury",
+    "state": "MI",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/electricforest"
+  },
+  "bonnaroo_music_arts_festival": {
+    "summary": "",
+    "fullLink": "https://www.bonnaroo.com/guide",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Bonnaroo Music & Arts Festival",
+    "city": "Manchester",
+    "state": "TN",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/bonnaroomusicartsfestival"
+  },
+  "governors_ball": {
+    "summary": "",
+    "fullLink": "https://www.rollingstone.com/product-recommendations/lifestyle/governors-ball-2024-tickets-info-bag-policy-1235032332/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Governors Ball",
+    "city": "New York",
+    "state": "NY",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/governorsball"
+  },
+  "boston_calling": {
+    "summary": "",
+    "fullLink": "https://www.cityofboston.gov/images_documents/South%20End%20Trash%20&%20Recycling%20Guidelines%20August%202013%20v2_tcm3-40469.pdf",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Boston Calling",
+    "city": "Boston",
+    "state": "MA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/bostoncalling"
+  },
+  "bottlerock_napa_valley": {
+    "summary": "The bag policy for BottleRock Napa Valley allows CamelBak-style water bladder systems that are emptied and transparent for inspection. Other specific items like small blankets and non-professional cameras are also permitted.",
+    "fullLink": "https://www.bottlerocknapavalley.com/info/",
+    "updated": "",
+    "allowed": [
+      "CamelBak-style water bladder systems (emptied and transparent)"
+    ],
+    "notAllowed": [
+      "Aerosol cans or sprays",
+      "Alcohol",
+      "Smoking or vaping devices"
+    ],
+    "note": "Medical representatives may be involved for prescription medications in non-standard containers.",
+    "venueName": "BottleRock Napa Valley",
+    "city": "Napa",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/bottlerocknapavalley"
+  },
+  "hangout_music_festival": {
+    "summary": "",
+    "fullLink": "https://www.hangoutmusicfest.com/info/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Hangout Music Festival",
+    "city": "Gulf Shores",
+    "state": "AL",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/hangoutmusicfestival"
+  },
+  "outside_lands": {
+    "summary": "Outside Lands prefers attendees to come bag-free but allows clear backpacks and small bags. Hydration packs under 2.5L with no more than one pocket are also permitted.",
+    "fullLink": "https://sfoutsidelands.com/info/",
+    "updated": "",
+    "allowed": [
+      "Backpacks and bags made of clear plastic, clear vinyl, or clear PVC",
+      "Small bags, fanny-packs, purses up to 6” x 8” x 3”",
+      "Empty dedicated hydration packs with a bladder capacity of under 2.5L/150 in. and no more than one additional pocket"
+    ],
+    "notAllowed": [
+      "Non-clear drawstring backpacks",
+      "Weapons of any kind",
+      "Illegal substances",
+      "Glow-sticks",
+      "Alcohol",
+      "Glass or cans of any kind",
+      "Video or audio recording equipment",
+      "Professional still camera equipment with a detachable lens longer than 2 inches",
+      "Skateboards, scooters or personal motorized vehicles",
+      "Bicycles",
+      "Strollers, wagons or carts of any kind",
+      "Hammocks or slack lines",
+      "Fireworks, explosives or open flames",
+      "Instruments",
+      "Laser pointers",
+      "Umbrellas",
+      "Selfie sticks",
+      "Spray paint, large markers or Aerosol cans",
+      "Picnic baskets",
+      "Coolers",
+      "Liquids (excluding personal sized hand sanitizers)",
+      "Lawn furniture or any chairs with legs",
+      "Large inflatables",
+      "Tents",
+      "Pets (except service animals)",
+      "Drones",
+      "Totems or flags",
+      "Threatening signs or apparel",
+      "Native American or “American Indian” headdresses",
+      "Spiked jewelry or clothing",
+      "Illegal vending"
+    ],
+    "note": "",
+    "venueName": "Outside Lands",
+    "city": "San Francisco",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/outsidelands"
+  },
+  "lollapalooza": {
+    "summary": "",
+    "fullLink": "https://www.chicagoparkdistrict.com/special-event-venues",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Lollapalooza",
+    "city": "Chicago",
+    "state": "IL",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/lollapalooza"
+  },
+  "rolling_loud_miami": {
+    "summary": "Hard Rock Stadium allows clear plastic bags up to 12\" x 6\" x 12\" and small bags or fanny packs up to 4.5\" x 6.5\". Diaper bags are permitted and subject to search.",
+    "fullLink": "https://www.hardrockstadium.com/stadium-policy/",
+    "updated": "",
+    "allowed": [
+      "Clear plastic bags that do not exceed 12\" x 6\" x 12\"",
+      "Small bags or fanny packs that do not exceed 4.5\" x 6.5\"",
+      "Diaper bags"
+    ],
+    "notAllowed": [
+      "All purses or bags that exceed 12\" x 6\" x 12\"",
+      "Non-clear bags that exceed 4.5\" x 6.5\""
+    ],
+    "note": "Diaper bags are permitted, and subject to search.",
+    "venueName": "Rolling Loud Miami",
+    "city": "Miami Gardens",
+    "state": "FL",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/rollingloudmiami"
+  },
+  "rolling_loud_los_angeles": {
+    "summary": "",
+    "fullLink": "https://hollywoodparklife.com/thewesleyapts/wp-content/uploads/sites/3/2022/07/A6_WESLEY_M3.pdf",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Rolling Loud Los Angeles",
+    "city": "Inglewood",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/rollingloudlosangeles"
+  },
+  "summerfest": {
+    "summary": "All bags are subject to inspection at Summerfest, with no backpacks or bags larger than 9x10x12 inches allowed. Special considerations are made for parents with infants and those with medical needs.",
+    "fullLink": "https://www.summerfest.com/safety/",
+    "updated": "",
+    "allowed": [
+      "Small Bag",
+      "Cinch bag",
+      "Purse"
+    ],
+    "notAllowed": [
+      "Backpacks",
+      "Large Bags over 9X10X12 inches",
+      "Camelback-style hydration packs",
+      "Picnic Baskets",
+      "Outside food and beverages",
+      "Cans and Glass/Plastic or Metal Containers",
+      "Coolers",
+      "Stainless steel reusable drinking straws",
+      "Self-defense sprays",
+      "Aerosol cans",
+      "UAV-Drones",
+      "Alcohol",
+      "Illegal drugs or substances",
+      "Firearms",
+      "Knives",
+      "Weapons"
+    ],
+    "note": "Special consideration for parents with infants and those with medical needs. Nursing mothers may bring items in a separate bag.",
+    "venueName": "Summerfest",
+    "city": "Milwaukee",
+    "state": "WI",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/summerfest"
+  },
+  "new_orleans_jazz_heritage_festival": {
+    "summary": "",
+    "fullLink": "https://www.jazzandheritage.org/wp-content/uploads/2024/05/Education-After-School-Grants-2024-2025-Guidelines.pdf",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "New Orleans Jazz & Heritage Festival",
+    "city": "New Orleans",
+    "state": "LA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/neworleansjazzheritagefestival"
+  },
+  "newport_folk_festival": {
+    "summary": "Bags under 20”x20”x10” are allowed at the Newport Folk Festival. Larger bags are prohibited.",
+    "fullLink": "https://newportjazz.org/info",
+    "updated": "",
+    "allowed": [
+      "Bags under 20”x20”x10”",
+      "Soft-sided coolers"
+    ],
+    "notAllowed": [
+      "Bags larger than 20”x20”x10”",
+      "Glass containers",
+      "Hard coolers"
+    ],
+    "note": "",
+    "venueName": "Newport Folk Festival",
+    "city": "Newport",
+    "state": "RI",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/newportfolkfestival"
+  },
+  "newport_jazz_festival": {
+    "summary": "Bags under 20”x20”x10” are allowed at the Newport Jazz Festival. Larger bags are prohibited.",
+    "fullLink": "https://newportjazz.org/info",
+    "updated": "",
+    "allowed": [
+      "Bags under 20”x20”x10”",
+      "Soft-sided coolers"
+    ],
+    "notAllowed": [
+      "Bags larger than 20”x20”x10”",
+      "Glass containers",
+      "Hard coolers"
+    ],
+    "note": "",
+    "venueName": "Newport Jazz Festival",
+    "city": "Newport",
+    "state": "RI",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/newportjazzfestival"
+  },
+  "austin_city_limits_music_festival": {
+    "summary": "No backpacks or large bags over 11”x17” are allowed. Diaper and medical bags are permitted.",
+    "fullLink": "https://www.acllive.com/plan-your-visit/know-before-you-go",
+    "updated": "",
+    "allowed": [
+      "Diaper bags",
+      "Medical bags"
+    ],
+    "notAllowed": [
+      "Backpacks",
+      "Large bags over 11”x17”"
+    ],
+    "note": "Diaper and medical bags are permitted.",
+    "venueName": "Austin City Limits Music Festival",
+    "city": "Austin",
+    "state": "TX",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/austincitylimitsmusicfestival"
+  },
+  "when_we_were_young": {
+    "summary": "",
+    "fullLink": "https://www.circuscircus.com/documents/10/groups-policies-and-procedures.pdf",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "When We Were Young",
+    "city": "Las Vegas",
+    "state": "NV",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/whenwewereyoung"
+  },
+  "life_is_beautiful": {
+    "summary": "",
+    "fullLink": "https://www.reddit.com/r/lifeisbeautifulLV/comments/m2vk3z/life_is_beautiful_festival_faq_hope_this_helps/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Life Is Beautiful",
+    "city": "Las Vegas",
+    "state": "NV",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/lifeisbeautiful"
+  },
+  "lightning_in_a_bottle": {
+    "summary": "Attendees are allowed to bring backpacks and coolers in campgrounds, but not in festival grounds. Glass bottles and containers are prohibited in festival grounds.",
+    "fullLink": "https://www.libfestival.org/packing-list",
+    "updated": "",
+    "allowed": [
+      "Backpacks",
+      "Coolers in Campgrounds"
+    ],
+    "notAllowed": [
+      "Coolers in Festival Grounds",
+      "Glass Bottles/Containers in Festival Grounds"
+    ],
+    "note": "",
+    "venueName": "Lightning in a Bottle",
+    "city": "Bakersfield",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/lightninginabottle"
+  },
+  "shaky_knees_music_festival": {
+    "summary": "",
+    "fullLink": "https://www.atlantaga.gov/home/showdocument?id=38690",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Shaky Knees Music Festival",
+    "city": "Atlanta",
+    "state": "GA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/shakykneesmusicfestival"
+  },
+  "music_midtown": {
+    "summary": "",
+    "fullLink": "https://piedmontpark.org/dog-parks/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Music Midtown",
+    "city": "Atlanta",
+    "state": "GA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/musicmidtown"
+  },
+  "iii_points": {
+    "summary": "",
+    "fullLink": "https://www.factorytown.com/about/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "III Points",
+    "city": "Miami",
+    "state": "FL",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/iiipoints"
+  },
+  "hard_summer_music_festival": {
+    "summary": "",
+    "fullLink": "https://hollywoodparklife.com/thewesleyapts/wp-content/uploads/sites/3/2022/07/A6_WESLEY_M3.pdf",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "HARD Summer Music Festival",
+    "city": "Los Angeles",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/hardsummermusicfestival"
+  },
+  "beyond_wonderland_socal": {
+    "summary": "Bags must be clear and not exceed 12”x6”x12”. Non-clear hydration packs with up to two main compartments are allowed if empty upon entry.",
+    "fullLink": "https://socal.beyondwonderland.com/guide/hours-and-info/",
+    "updated": "",
+    "allowed": [
+      "CLEAR bags not exceeding 12”x6”x12”",
+      "NON-CLEAR hydration packs with no more than two main compartments (must be empty upon entry)"
+    ],
+    "notAllowed": [],
+    "note": "Physician-prescribed medication must be shown with a prescription and consulted with a safety officer upon entry.",
+    "venueName": "Beyond Wonderland SoCal",
+    "city": "San Bernardino",
+    "state": "CA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/beyondwonderlandsocal"
+  },
+  "moonrise_festival": {
+    "summary": "Bags are subject to thorough TSA-style searches, and hydration packs with no more than two main compartments and one smaller compartment are allowed if empty upon entry. Other specific items are also permitted under certain conditions.",
+    "fullLink": "https://www.moonrisefestival.com/guide/hours-and-info/",
+    "updated": "",
+    "allowed": [
+      "Hydration packs with no more than two main compartments and one smaller compartment (must be empty upon entry)"
+    ],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Moonrise Festival",
+    "city": "Baltimore",
+    "state": "MD",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/moonrisefestival"
+  },
+  "country_thunder_wisconsin": {
+    "summary": "Country Thunder Music Festivals have implemented a clear bag policy to enhance security. Clear plastic bags up to 14” x 14”, standard one-gallon freezer bags, and small clutches and purses are allowed.",
+    "fullLink": "https://www.countrythunder.com/policies",
+    "updated": "",
+    "allowed": [
+      "clear plastic bags up to 14” x 14”",
+      "standard one-gallon freezer bags",
+      "small clutches and purses"
+    ],
+    "notAllowed": [
+      "backpacks",
+      "large purses",
+      "coolers"
+    ],
+    "note": "",
+    "venueName": "Country Thunder Wisconsin",
+    "city": "Twin Lakes",
+    "state": "WI",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/countrythunderwisconsin"
+  },
+  "burning_man": {
+    "summary": "The article provides a detailed packing list for Burning Man, emphasizing the need for durable bags to withstand the desert environment. It highlights the importance of organizing outfits to protect them from dust.",
+    "fullLink": "https://www.businessinsider.com/burning-man-packing-list-essentials",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [
+      "loose feathers",
+      "glitter",
+      "sequins"
+    ],
+    "note": "",
+    "venueName": "Burning Man",
+    "city": "Black Rock Desert",
+    "state": "NV",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/burningman"
+  },
+  "electric_zoo": {
+    "summary": "The venue reserves the right to inspect packages, bags, and containers. Weapons of any kind are not allowed.",
+    "fullLink": "https://centralparkzoo.com/plan-your-visit/rules",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [
+      "Weapons"
+    ],
+    "note": "",
+    "venueName": "Electric Zoo",
+    "city": "New York",
+    "state": "NY",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/electriczoo"
+  },
+  "riot_fest": {
+    "summary": "",
+    "fullLink": "https://www.tasteofrivernorth.com/dogparade",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Riot Fest",
+    "city": "Chicago",
+    "state": "IL",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/riotfest"
+  },
+  "essence_festival_of_culture": {
+    "summary": "",
+    "fullLink": "https://mccno.com/wp-content/uploads/2024/09/NOENMCC-Operational-Procedures-Information-7.9.24.pdf",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Essence Festival of Culture",
+    "city": "New Orleans",
+    "state": "LA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/essencefestivalofculture"
+  },
+  "sxsw_music_film_interactive": {
+    "summary": "",
+    "fullLink": "https://www.sxsw.com/wp-content/uploads/2024/02/singleparamount.pdf",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "SXSW (Music, Film & Interactive)",
+    "city": "Austin",
+    "state": "TX",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/sxswmusicfilminteractive"
+  },
+  "cma_fest": {
+    "summary": "",
+    "fullLink": "https://cmafest.com/first-time-attendees/",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "CMA Fest",
+    "city": "Nashville",
+    "state": "TN",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/cmafest"
+  },
+  "made_in_america": {
+    "summary": "",
+    "fullLink": "https://constitutioncenter.org/museum/visit/group-visits/booking-basics",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Made in America",
+    "city": "Philadelphia",
+    "state": "PA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/madeinamerica"
+  },
+  "radio_city_music_hall": {
+    "summary": "",
+    "fullLink": "https://www.msg.com/safety-and-security-dec-11-2017",
+    "updated": "",
+    "allowed": [],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "Radio City Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/radiocitymusichall"
+  },
+  "the_gorge_amphitheatre": {
+    "summary": "Only small clutches, wristlets, or fanny packs no bigger than 6\" x 9\" and clear plastic bags no bigger than 12\" x 12\" x 6\" are allowed. All bags are subject to search upon entry.",
+    "fullLink": "https://www.gorgeamphitheatre.com/know-before-you-go",
+    "updated": "",
+    "allowed": [
+      "small clutches",
+      "wristlets",
+      "fanny packs no bigger than 6\" x 9\"",
+      "clear plastic bags no bigger than 12\" x 12\" x 6\""
+    ],
+    "notAllowed": [],
+    "note": "",
+    "venueName": "The Gorge Amphitheatre",
+    "city": "George",
+    "state": "WA",
+    "guideUrl": "https://concerto-bag-policies.netlify.app/thegorgeamphitheatre"
+  }
+}
