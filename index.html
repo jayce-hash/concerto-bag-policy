@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bag Policy Guide</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="page-header">
+      <div class="page-header-inner">
+        <img
+          src="IMG_3180.jpeg"
+          alt="Bag Policies"
+          class="brand-logo"
+        />
+        <div class="search-wrapper">
+          <input
+            id="venueSearch"
+            type="text"
+            placeholder="Search a venue..."
+            autocomplete="off"
+          />
+          <div id="searchResults" class="search-results"></div>
+        </div>
+      </div>
+    </header>
+
+    <main class="layout">
+      <section id="infoPanel" class="info-panel info-panel--empty">
+        <!-- Static title + description -->
+        <div class="info-empty">
+          <h2>Check Bag Policies Before You Go</h2>
+          <p>
+            Use the search bar above to look up a venue. You’ll see a quick summary, what’s allowed,
+            what isn’t, and a link to the full bag policy.
+          </p>
+        </div>
+
+        <!-- Venue content (hidden until a venue is chosen) -->
+        <div class="info-content" hidden>
+          <header class="info-header">
+            <div>
+              <h2 id="venueName"></h2>
+              <p id="venueLocation" class="venue-location"></p>
+            </div>
+          </header>
+
+          <div class="info-cards">
+            <!-- Summary -->
+            <article class="info-card">
+              <h3>Summary</h3>
+              <p id="bagSummary" class="card-body"></p>
+            </article>
+
+            <!-- Allowed -->
+            <article class="info-card" id="allowedCard" hidden>
+              <h3>Allowed</h3>
+              <ul id="allowedList" class="bullet-list"></ul>
+            </article>
+
+            <!-- Not Allowed -->
+            <article class="info-card" id="notAllowedCard" hidden>
+              <h3>Not Allowed</h3>
+              <ul id="notAllowedList" class="bullet-list"></ul>
+            </article>
+
+            <!-- Extra Notes -->
+            <article class="info-card" id="extraCard" hidden>
+              <h3>Extra Notes</h3>
+              <p id="extraText" class="card-body"></p>
+            </article>
+
+            <!-- Official link -->
+            <article class="info-card" id="officialCard" hidden>
+              <h3>Full Bag Policy</h3>
+              <p class="card-body">
+                Some events may have additional restrictions. Always confirm the latest rules with the venue.
+              </p>
+              <a
+                id="bagLink"
+                class="primary-btn"
+                href="#"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View Official Bag Policy
+              </a>
+            </article>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
