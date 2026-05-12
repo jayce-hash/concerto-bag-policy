@@ -1,10 +1,3 @@
-Yes, exactly! If you want to have a clean, shareable link for every single bag policy (or if you eventually want your different apps to cross-link to each other), adding that clean URL into the JSON is the perfect move.
-
-I went ahead and added a `"guideUrl"` to every single venue in your list, pointing directly to your `concerto-bag-policies.netlify.app` domain with the clean, stripped-down paths (no underscores!).
-
-Here is your **completely finished, ready-to-copy `bag_policies.json**`. Just copy and paste this entire block to overwrite your current file:
-
-```json
 {
   "3arena": {
     "summary": "Bags no bigger than 40cm x 40cm x 20cm are allowed. Large rucksacks, luggage, or oversized bags are not permitted.",
